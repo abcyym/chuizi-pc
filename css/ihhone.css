@@ -1,0 +1,162 @@
+.peijian-box{
+    width: 26.6em;
+    height:68.5em;
+    background-color: #fff;
+    /* border:  1px solid rgb(226, 7, 7); */
+    position: relative;
+    top:2em;
+   
+}
+.peijian-shop-box{
+    width:26.5;
+    height: 14em;
+    /* border: 1px solid #b4b2b2; */
+    position: relative;
+    top:0px;
+    left:0px;
+    background-color: #fff;
+ 
+}
+.peijian-text-box1{
+    width: 26.5em;
+    height: 3em;
+    /* border-bottom: 1px solid #c5c4c4; */
+    display: flex;
+    position: relative;
+    top:-7.5em;
+    
+}
+.peijian-text{
+    width: 6em;
+    height: 3em;
+    font-size: 12px;
+    text-align: center;
+    /* border: 1px solid #c5c4c4; */
+    line-height: 3em;
+    font-weight: bolder;
+    
+
+}
+.peijian-bottom-box{
+    width: 26.5em;
+    height: 63.5em;
+    /* border: 1px solid #c5c4c4; */
+    position: relative;
+    top:-131px;
+    left:0px;
+  
+   /* display: flex; */
+}
+/* <!-- 第六个盒子---------------------------- --> */
+.shouji-box{
+    width: 26.6em;
+    height:71.5em;
+    background-color: #fff;
+    /* border:  1px solid rgb(216, 14, 14); */
+    position: relative;
+    top:2.5em;
+   
+}
+.peijian-shop-box{
+    width:26.5em;
+    height: 14em;
+    /* border: 1px solid #b4b2b2; */
+    position: relative;
+    top:0px;
+    left:0px;
+    background-color: #fff;
+ 
+}
+.peijian-text-box{
+    width: 26.5em;
+    height: 3em;
+    /* border-bottom: 1px solid #c5c4c4; */
+    display: flex;
+    position: relative;
+    top:-5.5em;
+    
+}
+.shouji-text{
+    width: 14em;
+    height: 3em;
+    font-size: 12px;
+    text-align: center;
+    /* border: 1px solid #c5c4c4; */
+    line-height: 3em;
+    font-weight: bolder;
+    position: relative;
+    left: -17px;
+    
+
+}
+.dayu{
+    width: 2em;
+    height: 3em;
+    font-size: 12px;
+    text-align: center;
+    /* border: 1px solid #c5c4c4; */
+    line-height: 3em;
+    font-weight: bolder;
+   
+    position: relative;
+   
+    left:21em;
+}
+
+/* ---------------- */
+.peijian-bottom-box{
+    width: 26.5em;
+    height: 62.8em;
+    /* border: 1px solid #c5c4c4; */
+    position: relative;
+    top:-131px;
+    left:0px;
+  
+   /* display: flex; */
+}
+.bottom-end-box{
+    width: 26.5em;
+    height: 4.5em;
+    border: 1px solid #c5c4c4;
+    background-color: #fff;
+   position: relative;
+   top:43.8em;
+   left:0em;
+    position: fixed;
+}
+.left-first{
+    width: 6.4em;
+    height: 4.4em;
+    /* border: 1px solid #c5c4c4; */
+    float: left;
+    position: relative;
+    top:0em;
+    left:0em;
+    
+}
+.shouye-box{
+    width: 2.25em;
+    height: 2.25em;
+    /* border: 1px solid #c5c4c4; */
+    position: relative;
+    top:0.5em;
+    left:2.1em;
+
+    
+}
+.shouye-img{
+    /* position: relative;
+    top:-9em;
+    left:0em;  */
+    width: 2em;
+    height: 2em;
+}
+.shouye-text{ 
+    width: 6.4em;
+    height: 1.5em;
+    /* border: 1px solid #c5c4c4;  */
+    position: relative;
+    top:0.5em;
+    left:0em;
+    text-align: center;
+}  
